@@ -1,6 +1,6 @@
 import React from 'react'
 import MainFeaturedPost from "./MainFeaturedPost.js";
-import image1 from "./Aurora2.jpg";
+import image1 from "./roy-fotos/Aurora2.jpg";
 
 
 
