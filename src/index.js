@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { createBrowserHistory } from "history";
-import Components from "/Users/royguzman/Documents/My Web Apps 2/My Web Projects/roy-react-app/src/views/Components/Components.js";
+import Components from "../src/views/Components/Components.js";
 import reportWebVitals from './reportWebVitals';
 import { Router, Route, Switch } from "react-router-dom";
 
