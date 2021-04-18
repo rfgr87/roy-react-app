@@ -25,7 +25,20 @@ class Components extends React.Component{
 
   render(){
       return(
-      <div>
+      <div style={{ 
+        position: "absolute",
+        backgroundImage: `url(${image1})`,
+        backgroundColor: "white",
+        //backgroundColor: "white",
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        width: "100%",
+        padddingRigth: "0px",
+        paddingBottom: "0px",
+        margin: 0,
+        padding: 0
+        
+        }}>
        
        <Router>
   <Navbar bg="light" expand="lg">
@@ -50,7 +63,7 @@ class Components extends React.Component{
 </Navbar>
 </Router>
 
-  <Media>
+  {/* <Media>
 
     <img
    width="100%"
@@ -58,7 +71,7 @@ class Components extends React.Component{
     
    src={image1} ></img> 
   
-</Media>
+</Media> */}
       
 
       </div>
