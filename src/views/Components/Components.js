@@ -17,7 +17,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 
 
-import image1 from './glitch3.png';
+import image1 from './roy-fotos/glitch3.png';
 import 'bootstrap/dist/css/bootstrap.css';
 
 
