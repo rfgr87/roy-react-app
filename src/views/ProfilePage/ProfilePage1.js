@@ -121,7 +121,7 @@ export default function ProfilePage1(props) {
 
               }}>
               <p>
-              {"Recently he explores the Meta Composition where it is proposed that the perceptual abstraction called reality is affected by object structures, new constructs, forms, symbols and compositional texts.  He created the Multi Semiotic Concrete Poetry where synchronic and asynchronous multi semioticism is explored and the Integral Meta Poetry where semiotic color is explored as an integral of a multisemioticism of a popular universal gestalt. He also investigates and creates deductions and creations on the metaphysics of Latin American ancestral spirituality and its potential axiomatic and abstract development for the creation of new constructs and philosophies that have the potential to alter perceptual reality."}<br></br><br></br>
+              {"Recently he explores the Meta Composition where it is proposed that the perceptual abstraction called reality is affected by object structures, new constructs, forms, symbols and compositional texts.  He creates Concrete Multi Semiotic Poetry where synchronic and asynchronous multi semioticism is explored and the Integral Meta Poetry where semiotic color is explored as an integral of a multisemioticism of a popular universal gestalt. He also investigates and creates deductions and creations on the metaphysics of Latin American ancestral spirituality and its potential axiomatic and abstract development for the creation of new constructs and philosophies that have the potential to alter perceptual reality."}<br></br><br></br>
             
               </p>
               </div>   </Col>
