@@ -14,7 +14,7 @@ import Abolengo from "./views/Abolengo/Abolengo.js";
 import ElectroAcoustic from "./views/ElectroAcoustic/ElectroAcoustic.js";
 import CMEPR from "./views/CMEPR/CMEPR.js";
 import Instrumental from "./views/Instrumental/Instrumental.js";
-
+import Scores from "./views/Scores/Scores.js";
 
 
 var hist = createBrowserHistory();
@@ -28,6 +28,8 @@ ReactDOM.render(
       <Route path="/electro-acoustic" component={ElectroAcoustic} />
       <Route path="/cmepr" component={CMEPR} />
       <Route path="/instrumental" component={Instrumental} />
+      <Route path="/scores" component={Scores} />
+
       <Route path="/bio" component={ProfilePage1} />
       <Route path="/" component={Components} />
     </Switch>

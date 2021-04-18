@@ -51,8 +51,7 @@ function Releases(props) {
         <NavDropdown.Item href="instrumental">Instrumental</NavDropdown.Item>
         <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
-
-        
+        <NavDropdown.Item href="scores">Scores</NavDropdown.Item>     
       </NavDropdown>
     </Nav>
     

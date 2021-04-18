@@ -5,10 +5,12 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import Form from 'react-bootstrap/Form';
+import Carousel from 'react-bootstrap/Carousel';
 import FormControl from 'react-bootstrap/FormControl';
 import Button from 'react-bootstrap/Button';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import Media from 'react-bootstrap/Media';
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -20,12 +22,27 @@ import {
 
 import image1 from "./TainoHombreFractal.png";
 import image2 from "./roy1.jpg";
+import image3 from "./roy1.jpg";
+import image4 from "./roy1.jpg";
 
 
-export default function ProfilePage1(props) {
- 
+
+export default function Scores(props) {
+    
   return (
-    <div>
+    <div style={{ 
+        position: "absolute",
+        backgroundImage: `url(${image1})`,
+        // backgroundColor: 
+        backgroundColor: "white",
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        width: "100%",
+        padddingRigth: "0px",
+        paddingBottom: "0px",
+        margin: 0,
+        padding: 0
+        }}>
   <Router>
   <Navbar bg="light" expand="lg">
   <Navbar.Brand >Roy F Guzmán</Navbar.Brand>
@@ -42,44 +59,206 @@ export default function ProfilePage1(props) {
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
         <NavDropdown.Item href="scores">Scores</NavDropdown.Item>
 
+
       </NavDropdown>
     </Nav>
    
   </Navbar.Collapse>
 </Navbar>
 </Router>
-<div style={{ 
-      position: "absolute",
-      backgroundImage: `url(${image1})`,
-      // backgroundColor: 
-      backgroundColor: "white",
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-      width: "100%",
-      padddingRigth: "0px",
-      paddingBottom: "0px",
-      margin: 0,
-      padding: 0
-      }}>
 
-<div style={{ 
-          position: "relative",
-          backgroundImage: `url(${image2})`,
-          height: "290px",
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          width: "300px",
-          padddingRigth: "45px",
-          paddingBottom: "200px",
-          margin: 0,
-          marginTop: "3%",
-          marginLeft: "10%",
-          padding: 0,
-          border: '2px solid black'
-        }}>
-            </div><br></br>
-    
+
+
+<div style={{
+    margin: "100px",
+    padding: "100px"}}>
+<Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image3}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>First slide label</h3>
+      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image2}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Second slide label</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image1}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Third slide label</h3>
+      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+</Carousel>
+      
+</div><br></br><br></br>
+
+<div style={{
+    margin: "100px",
+    padding: "100px"}}>
+<Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image3}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>First slide label</h3>
+      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image2}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Second slide label</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image1}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Third slide label</h3>
+      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+</Carousel>
+      
+</div><br></br><br></br>
+
+<div style={{
+    margin: "100px",
+    padding: "100px"}}>
+<Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image3}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>First slide label</h3>
+      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image2}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Second slide label</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image1}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Third slide label</h3>
+      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+</Carousel>
+      
+</div><br></br><br></br>
+
+<div style={{
+    margin: "100px",
+    padding: "100px"}}>
+<Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image3}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>First slide label</h3>
+      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image2}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Second slide label</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="25%"
+   height="25%"  
+   src={image1}>
+    </img> 
+    </Media> 
+    <Carousel.Caption>
+      <h3>Third slide label</h3>
+      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+</Carousel>
+      
+</div><br></br><br></br>
        
+
+
       <Container justify="center">
       <Row>
     
@@ -130,6 +309,5 @@ export default function ProfilePage1(props) {
       </Row>
       </Container>
       </div>
-    </div>               
   );
 }

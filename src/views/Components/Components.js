@@ -54,8 +54,7 @@ class Components extends React.Component{
         <NavDropdown.Item href="instrumental">Instrumental</NavDropdown.Item>
         <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
-
-       
+        <NavDropdown.Item href="scores">Scores</NavDropdown.Item>     
       </NavDropdown>
     </Nav>
    
@@ -63,7 +62,21 @@ class Components extends React.Component{
 </Navbar>
 </Router>
 
-  {/* <Media>
+{/* <div style={{ 
+        position: "absolute",
+        backgroundImage: `url(${image1})`,
+        backgroundColor: "white",
+        //backgroundColor: "white",
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        width: "100%",
+        padddingRigth: "0px",
+        paddingBottom: "0px",
+        margin: 0,
+        padding: 0
+        
+        }}></div> */}
+  <Media>
 
     <img
    width="100%"
@@ -71,7 +84,7 @@ class Components extends React.Component{
     
    src={image1} ></img> 
   
-</Media> */}
+</Media> 
       
 
       </div>
