@@ -18,8 +18,8 @@ import {
 // import GridContainer from "components/Grid/GridContainer.js";
 // import GridItem from "/src/components/Grid/GridItem.js";
 
-import image1 from "./roy-fotos/TainoHombreFractal.png";
-import image2 from "./roy-fotos/roy1.jpg";
+var image1 = require("./TainoHombreFractal.png");
+var image2 = require("./roy1.jpg");
 
 
 export default function ProfilePage1(props) {

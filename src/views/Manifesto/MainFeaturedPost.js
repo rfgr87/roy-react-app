@@ -20,8 +20,8 @@ import {
 
 
 
-import image1 from "./roy-fotos/glitch2.jpg";
-import image2 from "./roy-fotos/glitch2.jpg";
+import image1 from "./glitch2.jpg";
+import image2 from "./glitch2.jpg";
 
 function MainFeaturedPost(props) {
 
