@@ -17,7 +17,7 @@ import {
   useParams,
 } from "react-router-dom";
 
-import image1 from "/Users/royguzman/Documents/My Web Apps 2/My Web Projects/roy-react-app/src/roy-fotos/glitch5.jpg";
+import image1 from "./glitch5.jpg";
 
 
 function ElectroAcoustic(props) {

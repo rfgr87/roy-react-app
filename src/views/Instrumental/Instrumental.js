@@ -17,7 +17,7 @@ import {
   useParams,
 } from "react-router-dom";
 
-import image1 from "/Users/royguzman/Documents/My Web Apps 2/My Web Projects/roy-react-app/src/roy-fotos/img015.jpg";
+import image1 from "./img015.jpg";
 
 
 function Releases(props) {

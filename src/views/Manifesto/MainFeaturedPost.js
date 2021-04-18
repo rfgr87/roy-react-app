@@ -20,9 +20,8 @@ import {
 
 
 
-import image1 from "/Users/royguzman/Documents/My Web Apps 2/My Web Projects/roy-react-app/src/roy-fotos/glitch2.jpg";
-import image2 from "/Users/royguzman/Documents/My Web Apps 2/My Web Projects/roy-react-app/src/roy-fotos/glitch2.jpg";
-import image3 from "/Users/royguzman/Documents/My Web Apps 2/My Web Projects/roy-react-app/src/roy-fotos/glitch2.jpg";
+import image1 from "./glitch2.jpg";
+import image2 from "./glitch2.jpg";
 
 function MainFeaturedPost(props) {
 
