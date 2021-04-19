@@ -182,6 +182,27 @@ function Releases(props) {
               <Container justify="center">
        <Row>
 
+       <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=53339679/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abstracciones-de-la-loiza-con-improvisaci-n">Abstracciones De La Loiza Con Improvisación by Roy F Guzmán, Daniel Ramirez, Luigie Vazquez</a></iframe>
+          </Col>
+
+       <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=3476397977/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/impro-15-04-21-roy-f-guzm-n-daniel-ramirez-luigie-vazquez">Impro[15-04-21] Roy F Guzmán, Daniel Ramirez, Luigie Vazquez by Roy F Guzmán, Daniel Ramirez, Luigie Vazquez</a></iframe>
+          </Col>
 
        <Col><iframe style = {{
           display: "inline-block",
