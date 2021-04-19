@@ -25,20 +25,7 @@ class Components extends React.Component{
 
   render(){
       return(
-      <div style={{ 
-        position: "absolute",
-        backgroundImage: `url(${image1})`,
-        backgroundColor: "white",
-        //backgroundColor: "white",
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        width: "100%",
-        padddingRigth: "0px",
-        paddingBottom: "0px",
-        margin: 0,
-        padding: 0
-        
-        }}>
+      <div>
        
        <Router>
   <Navbar bg="light" expand="lg">
