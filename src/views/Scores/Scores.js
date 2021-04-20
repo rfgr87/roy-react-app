@@ -62,6 +62,109 @@ import image33 from "./MA19.png"
 import image34 from "./MA20.png"
 import image35 from "./MA21.png"
 
+import image36 from "./Como+leer+petroglifos+taínos+1.jpg";
+import image37 from "./Como+leer+petroglifos+taínos+2.jpg";
+import image38 from "./Como+leer+petroglifos+taínos+3.jpg";
+import image39 from "./Screen+Shot+2020-10-31+at+8.33.10+PM.png";
+import image40 from "./Screen+Shot+2020-10-31+at+8.33.16+PM.png";
+import image41 from "./Screen+Shot+2020-10-31+at+8.33.21+PM.png";
+import image42 from "./Screen+Shot+2020-10-31+at+8.33.26+PM.png";
+import image43 from "./Screen+Shot+2020-10-31+at+8.33.31+PM.png";
+import image44 from "./Screen+Shot+2020-10-31+at+8.33.36+PM.png";
+import image45 from "./Screen+Shot+2020-10-31+at+8.33.41+PM.png";
+import image46 from "./Screen+Shot+2020-10-31+at+8.33.46+PM.png";
+import image47 from "./Screen+Shot+2020-10-31+at+8.33.51+PM.png";
+import image48 from "./Screen+Shot+2020-10-31+at+8.33.56+PM.png";
+import image49 from "./Screen+Shot+2020-10-31+at+8.34.01+PM.png";
+import image50 from "./Screen+Shot+2020-10-31+at+8.34.05+PM.png";
+import image51 from "./Screen+Shot+2020-10-31+at+8.34.16+PM.png";
+import image52 from "./Screen+Shot+2020-10-31+at+8.34.20+PM.png";
+import image53 from "./Screen+Shot+2020-10-31+at+8.34.25+PM.png";
+import image54 from "./Screen+Shot+2020-10-31+at+8.34.29+PM.png";
+import image55 from "./Screen+Shot+2020-10-31+at+8.34.33+PM.png";
+import image56 from "./Screen+Shot+2020-10-31+at+8.34.37+PM.png";
+import image57 from "./Screen+Shot+2020-10-31+at+8.34.43+PM.png";
+import image58 from "./Screen+Shot+2020-10-31+at+8.34.47+PM.png";
+import image59 from "./Screen+Shot+2020-10-31+at+8.34.52+PM.png";
+import image60 from "./Screen+Shot+2020-10-31+at+8.34.57+PM.png";
+import image61 from "./Screen+Shot+2020-10-31+at+8.35.02+PM.png";
+import image62 from "./Screen+Shot+2020-10-31+at+8.35.07+PM.png";
+import image63 from "./Screen+Shot+2020-10-31+at+8.35.21+PM.png";
+import image64 from "./Screen+Shot+2020-10-31+at+8.35.26+PM.png";
+import image65 from "./Screen+Shot+2020-10-31+at+8.35.30+PM.png";
+import image66 from "./Screen+Shot+2020-10-31+at+8.35.34+PM.png";
+import image67 from "./Screen+Shot+2020-10-31+at+8.35.39+PM.png";
+import image68 from "./Screen+Shot+2020-10-31+at+8.35.43+PM.png";
+import image69 from "./Screen+Shot+2020-10-31+at+8.35.47+PM.png";
+import image70 from "./Screen+Shot+2020-10-31+at+8.35.51+PM.png";
+import image71 from "./Screen+Shot+2020-10-31+at+8.35.55+PM.png";
+import image72 from "./Screen+Shot+2020-10-31+at+8.36.01+PM.png";
+import image73 from "./Screen+Shot+2020-10-31+at+8.36.07+PM.png";
+import image74 from "./Screen+Shot+2020-10-31+at+8.36.12+PM.png";
+import image75 from "./Screen+Shot+2020-10-31+at+8.37.01+PM.png";
+import image76 from "./Screen+Shot+2020-10-31+at+8.37.06+PM.png";
+import image77 from "./Screen+Shot+2020-10-31+at+8.37.12+PM.png";
+import image78 from "./Screen+Shot+2020-10-31+at+8.37.24+PM.png";
+import image79 from "./Screen+Shot+2020-10-31+at+8.37.35+PM.png";
+import image80 from "./Screen+Shot+2020-10-31+at+8.37.40+PM.png";
+import image81 from "./Screen+Shot+2020-10-31+at+8.37.45+PM.png";
+import image82 from "./Screen+Shot+2020-10-31+at+8.37.49+PM.png";
+import image83 from "./Screen+Shot+2020-10-31+at+8.37.53+PM.png";
+import image84 from "./Screen+Shot+2020-10-31+at+8.37.57+PM.png";
+import image85 from "./Screen+Shot+2020-10-31+at+8.38.02+PM.png";
+import image86 from "./Screen+Shot+2020-10-31+at+8.38.06+PM.png";
+import image87 from "./Screen+Shot+2020-10-31+at+8.38.11+PM.png";
+import image88 from "./Screen+Shot+2020-10-31+at+8.38.15+PM.png";
+import image89 from "./Screen+Shot+2020-10-31+at+8.38.19+PM.png";
+import image90 from "./Screen+Shot+2020-10-31+at+8.38.23+PM.png";
+import image91 from "./Screen+Shot+2020-10-31+at+8.38.34+PM.png";
+import image92 from "./Screen+Shot+2020-10-31+at+8.38.39+PM.png";
+import image93 from "./Screen+Shot+2020-10-31+at+8.38.42+PM.png";
+import image94 from "./Screen+Shot+2020-10-31+at+8.38.47+PM.png";
+import image95 from "./Screen+Shot+2020-10-31+at+8.38.51+PM.png";
+import image96 from "./Screen+Shot+2020-10-31+at+8.38.55+PM.png";
+import image97 from "./Screen+Shot+2020-10-31+at+8.38.59+PM.png";
+import image98 from "./Screen+Shot+2020-10-31+at+8.39.04+PM.png";
+import image99 from "./Screen+Shot+2020-10-31+at+8.39.08+PM.png";
+import image100 from "./Screen+Shot+2020-10-31+at+8.39.14+PM.png";
+import image101 from "./Screen+Shot+2020-10-31+at+8.39.20+PM.png";
+import image102 from "./Screen+Shot+2020-10-31+at+8.39.24+PM.png";
+import image103 from "./Screen+Shot+2020-10-31+at+8.39.38+PM.png";
+import image104 from "./Screen+Shot+2020-10-31+at+8.39.43+PM.png";
+import image105 from "./Screen+Shot+2020-10-31+at+8.39.47+PM.png";
+import image106 from "./Screen+Shot+2020-10-31+at+8.39.51+PM.png";
+import image107 from "./Screen+Shot+2020-10-31+at+8.39.55+PM.png";
+import image108 from "./Screen+Shot+2020-10-31+at+8.40.01+PM.png";
+import image109 from "./Screen+Shot+2020-10-31+at+8.40.07+PM.png";
+import image110 from "./Screen+Shot+2020-10-31+at+8.40.11+PM.png";
+import image111 from "./Screen+Shot+2020-10-31+at+8.40.16+PM.png";
+import image112 from "./Screen+Shot+2020-10-31+at+8.40.20+PM.png";
+import image113 from "./Screen+Shot+2020-10-31+at+8.40.24+PM.png";
+import image114 from "./Screen+Shot+2020-10-31+at+8.40.29+PM.png";
+import image115 from "./Screen+Shot+2020-10-31+at+8.40.45+PM.png";
+import image116 from "./Screen+Shot+2020-10-31+at+8.40.51+PM.png";
+import image117 from "./Screen+Shot+2020-10-31+at+8.40.55+PM.png";
+import image118 from "./Screen+Shot+2020-10-31+at+8.40.59+PM.png";
+import image119 from "./Screen+Shot+2020-10-31+at+8.41.03+PM.png";
+import image120 from "./Screen+Shot+2020-10-31+at+8.41.08+PM.png";
+import image121 from "./Screen+Shot+2020-10-31+at+8.41.12+PM.png";
+import image122 from "./Screen+Shot+2020-10-31+at+8.41.16+PM.png";
+import image123 from "./Screen+Shot+2020-10-31+at+8.41.19+PM.png";
+import image124 from "./Screen+Shot+2020-10-31+at+8.41.23+PM.png";
+import image125 from "./Screen+Shot+2020-10-31+at+8.41.27+PM.png";
+import image126 from "./Screen+Shot+2020-10-31+at+8.41.31+PM.png";
+import image127 from "./Screen+Shot+2020-10-31+at+8.41.44+PM.png";
+import image128 from "./Screen+Shot+2020-10-31+at+8.41.48+PM.png";
+import image129 from "./Screen+Shot+2020-10-31+at+8.41.52+PM.png";
+import image130 from "./Screen+Shot+2020-10-31+at+8.41.56+PM.png";
+import image131 from "./Screen+Shot+2020-10-31+at+8.41.59+PM.png";
+import image132 from "./Screen+Shot+2020-10-31+at+8.42.03+PM.png";
+import image133 from "./Screen+Shot+2020-10-31+at+8.42.07+PM.png";
+import image134 from "./Screen+Shot+2020-10-31+at+8.42.10+PM.png";
+import image135 from "./Screen+Shot+2020-10-31+at+8.42.13+PM.png";
+import image136 from "./Screen+Shot+2020-10-31+at+8.42.17+PM.png";
+import image137 from "./Screen+Shot+2020-10-31+at+8.42.21+PM.png";
+import image138 from "./Screen+Shot+2020-10-31+at+8.42.24+PM.png";
 
 
 
@@ -357,7 +460,7 @@ export default function Scores(props) {
   </Container>
 
 
-
+<Container>
   <Row> 
     <Col><div style={{
       marginTop: "10px",
@@ -558,7 +661,1002 @@ export default function Scores(props) {
       
 </div>
 </Col>
-</Row>   
+</Row>  
+</Container> 
+
+
+
+
+
+
+
+
+
+
+<Container>
+  <Row> 
+    <Col><div style={{
+      marginTop: "10px",
+    border: '1px solid red',
+    margin: "0px",
+    padding: "0px"}}>
+
+    <Col>
+      <h3>Petroglifos Taínos I Para Cuarteto De Cuerdas</h3>
+      <iframe style={{border: "0", width: "350px", height: "470px"}} src="https://bandcamp.com/EmbeddedPlayer/album=3236687846/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/petroglifos-ta-nos-i-para-cuarteto-de-cuerdas">Petroglifos Taínos I para Cuarteto de Cuerdas by Roy F Guzmán</a></iframe>
+   <div style={{ 
+              position: "relative",
+              fontSize: "70%",
+              fontFamily: "Menlo",
+              fontWeight: "normal",
+              fontStyle: "normal",
+              fontFamily: "Menlo",
+              color: "red",
+              borderWidth:2,
+              borderColor: 'red',
+              margin: "0px",
+              width: "100%",
+              border: '1px solid black',
+              marginBottom: "10px",
+              padding: "5%"
+
+              }}>
+              <p>
+                {"Carolina Pons, Violín"}<br></br>
+                {"Nayomi Lozano, Violín"}<br></br>
+                {"Lourdes Naomi, Viola"}<br></br>
+                {"Gisela Rosa, Cello"}<br></br>
+                {"Roy F Guzmán, Concepto"}<br></br><br></br>
+                {"Petroglifos Taínos I para Cuarteto de Cuerdas"}<br></br><br></br>
+                {"Estas obras son interpretaciones instrumentales de diseños Taínos basadas en una serie de sugerencias que consideran los diseños de forma geométrica como también simbólica. Los instrumentistas se dan a la tarea de fijar parámetros musicales que ellos derivan de las deducciones simbólicas y geométricas con una simpleza rudimentaria de manera que se logre concretizar un sonido homogéneo que pudiera diferenciar un petroglifo de otro."}<br></br><br></br>
+                {"Se busca encontrar una abstracción sonora no idiomática basada en estos diseños Taínos."}<br></br><br></br>
+                {"Las características principales de estos petroglifos son la simpleza, lo simbólico, la abstracción sutil, lo sutilmente figurativo y lo orgánico y circular. Con estas características se busco hacer análogos de esta información a material musical y el resultado tendió a ser segmentos de melodías simples tonales y amables al oído al igual de minimizar la cantidad de notas en algunos diseños para lograr una simpleza que pudiera caracterizar el diseño. No se buscó complejidades rítmicas ni harmónicas por el minimalismo y simpleza que evoca estos diseños pero si una sutil abstracción."}<br></br><br></br>
+                {"Es importante tener los diseños de los petroglifos Taínos mientras se escuchan las obras ya que el contenido simplista tiene muchas sensaciones de memorias que pudieran evocar una estética europea de la época clásica. Al tener los diseños disponibles uno puede apreciar la esencia conceptual y abstracta relacionada directamente a estes mismos diseños."}<br></br><br></br>
+              </p>
+              </div>   
+              </Col>
+<Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image36}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image37}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image38}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image39}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image40}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image41}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image42}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image43}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image44}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image45}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image46}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image47}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image48}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image49}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image50}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image51}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image52}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image53}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image54}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image55}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image56}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image57}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image58}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image59}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image60}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image61}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image62}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image63}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image64}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image65}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image66}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image67}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image68}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image69}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image70}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+<Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image71}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image72}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image73}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image74}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image75}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image76}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image77}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image78}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image79}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image80}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image81}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image82}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image83}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image84}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image85}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image86}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image87}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image88}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image89}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image90}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image91}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image92}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image93}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image94}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image95}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image96}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image97}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image98}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image99}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image100}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image101}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image102}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image103}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image104}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image105}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image106}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image107}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image108}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image109}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image110}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image111}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image112}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image113}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image114}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image115}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image116}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+<Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image117}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image118}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image119}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image120}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image121}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image122}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image123}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image124}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image125}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image126}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image127}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image128}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image129}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image130}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image131}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image132}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image133}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image134}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image135}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image136}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image137}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image138}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+
+</Carousel>
+      
+      
+</div>
+</Col>
+</Row>  
+</Container> 
 
 </div>
   );
