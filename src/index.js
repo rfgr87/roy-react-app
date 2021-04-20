@@ -15,12 +15,14 @@ import ElectroAcoustic from "./views/ElectroAcoustic/ElectroAcoustic.js";
 import CMEPR from "./views/CMEPR/CMEPR.js";
 import Instrumental from "./views/Instrumental/Instrumental.js";
 import Scores from "./views/Scores/Scores.js";
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 var hist = createBrowserHistory();
 
 
 ReactDOM.render(
+  
   <Router history={hist}>
     <Switch>
       <Route path="/pedagogy" component={Manifesto} />
