@@ -166,7 +166,42 @@ import image136 from "./Screen+Shot+2020-10-31+at+8.42.17+PM.png";
 import image137 from "./Screen+Shot+2020-10-31+at+8.42.21+PM.png";
 import image138 from "./Screen+Shot+2020-10-31+at+8.42.24+PM.png";
 
+import image139 from "./MetaComposition.jpg";
+import image140 from "./Meta2.jpg";
+import image141 from "./CuadradoVerde.png";
 
+import image142 from "./Como+leer+petroglifos+taínos+1.jpg";
+import image143 from "./Como+leer+petroglifos+taínos+2.jpg";
+import image144 from "./Como+leer+petroglifos+taínos+3.jpg";
+
+import image145 from "./Screen+Shot+2020-11-19+at+4.36.31+PM.png";
+import image146 from "./Screen+Shot+2020-11-19+at+4.36.40+PM.png";
+import image147 from "./Screen+Shot+2020-11-19+at+4.36.52+PM.png";
+import image148 from "./Screen+Shot+2020-11-19+at+4.39.30+PM.png";
+import image149 from "./Screen+Shot+2020-11-19+at+4.39.44+PM.png";
+import image150 from "./Screen+Shot+2020-11-19+at+4.39.57+PM.png";
+import image151 from "./Screen+Shot+2020-11-19+at+4.40.09+PM.png";
+import image152 from "./Screen+Shot+2020-11-19+at+4.40.25+PM.png";
+import image153 from "./Screen+Shot+2020-11-19+at+4.40.37+PM.png";
+import image154 from "./Screen+Shot+2020-11-19+at+4.40.46+PM.png";
+import image155 from "./Screen+Shot+2020-11-19+at+4.40.56+PM.png";
+import image156 from "./Screen+Shot+2020-11-19+at+4.41.07+PM.png";
+import image157 from "./Screen+Shot+2020-11-19+at+4.41.18+PM.png";
+import image158 from "./Screen+Shot+2020-11-19+at+4.41.28+PM.png";
+import image159 from "./Screen+Shot+2020-11-19+at+4.41.38+PM.png";
+import image160 from "./Screen+Shot+2020-11-19+at+4.41.47+PM.png";
+import image161 from "./Screen+Shot+2020-11-19+at+4.41.54+PM.png";
+import image162 from "./Screen+Shot+2020-11-19+at+4.48.57+PM.png";
+import image163 from "./Screen+Shot+2020-11-19+at+4.49.08+PM.png";
+import image164 from "./Screen+Shot+2020-11-19+at+4.49.19+PM.png";
+import image165 from "./Screen+Shot+2020-11-19+at+4.49.30+PM.png";
+import image166 from "./Screen+Shot+2020-11-19+at+4.49.40+PM.png";
+import image167 from "./Screen+Shot+2020-11-19+at+4.50.08+PM.png";
+import image168 from "./Screen+Shot+2020-11-19+at+4.50.16+PM.png";
+import image169 from "./Screen+Shot+2020-11-19+at+5.05.32+PM.png";
+import image170 from "./Screen+Shot+2020-11-19+at+5.05.38+PM.png";
+import image171 from "./Screen+Shot+2020-11-19+at+5.05.45+PM.png";
+import image172 from "./Screen+Shot+2020-11-19+at+5.05.54+PM.png";
 
 export default function Scores(props) {
     
@@ -376,7 +411,8 @@ export default function Scores(props) {
           </Col>
           <Col><div style={{ 
             marginTop: "10px",
-            paddingTop: "10px",
+            // paddingTop: "10px",
+            padding: "10px",
               position: "relative",
               fontSize: "70%",
               fontFamily: "Menlo",
@@ -414,11 +450,6 @@ export default function Scores(props) {
   </img> 
   </Media> 
   </Col>
-  </Row>
-  </Container>
-
-  <Container justify="center">
-  <Row>
   <Col> 
   <Media>
   <img
@@ -429,9 +460,7 @@ export default function Scores(props) {
   </Media> 
   </Col>
   </Row>
-  </Container>
-
-  <Container justify="center">
+</Container>
   <Row>
   <Col> 
   <Media>
@@ -443,7 +472,7 @@ export default function Scores(props) {
   </Media> 
   </Col>
   </Row>
-  </Container>
+
 
   <Container justify="center">
   <Row>
@@ -456,13 +485,8 @@ export default function Scores(props) {
   </img> 
   </Media> 
   </Col>
-  </Row>
-  </Container>
-
-
-<Container>
-  <Row> 
-    <Col><div style={{
+ 
+  <Col><div style={{
       marginTop: "10px",
     border: '1px solid red',
     margin: "0px",
@@ -1655,8 +1679,333 @@ export default function Scores(props) {
       
 </div>
 </Col>
+
+<Col>
+  <h3>Meta Compositions</h3>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image139}>
+    </img> 
+    </Media> 
+    <p>{""}</p>
+    <Media>
+  <img
+  
+   width="100%"
+   height="100%" 
+   src={image140}>
+    </img> 
+    </Media> 
+    <h3 styles={{marginTop: "10px"}}>Cuadrado Verde</h3>
+  <Media>
+    <img
+    width="100%"
+    height="100%" 
+    src={image141}>
+    </img> 
+  </Media> 
+</Col>
+</Row>
+  <h3>NUEVAS ABSTRACCIONES DE PETROGLIFOS TAÍNOS 2 [CUADRADOS, CÍRCULOS, TRIÁNGULOS, LÍNEAS]</h3>
+  
+<Row>
+<Col>
+  <Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image142}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image143}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image144}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+</Carousel>
+</Col>
+
+<Col>
+<Carousel fade>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%" 
+   src={image145}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image146}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image147}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image148}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image149}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image150}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image151}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image152}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image153}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image154}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image155}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image156}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image157}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image158}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image159}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image160}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image161}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image162}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image163}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image164}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image165}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image166}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image167}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image168}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image169}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image170}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image171}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+  <Carousel.Item>
+  <Media>
+  <img
+   width="100%"
+   height="100%"  
+   src={image172}>
+    </img> 
+    </Media> 
+  </Carousel.Item>
+ 
+</Carousel>
+
+
+</Col>
 </Row>  
 </Container> 
+
+
 
 </div>
   );

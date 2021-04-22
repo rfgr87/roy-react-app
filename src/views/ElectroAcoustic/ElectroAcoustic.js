@@ -108,14 +108,7 @@ function ElectroAcoustic(props) {
               
         <Col>
         <iframe style={{border: "0", width: "100%", height: "120px"}} src="https://bandcamp.com/EmbeddedPlayer/album=382117328/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/sin-t-tulo-02-10-21-2">sin-título[02-10-21] by Roy F Guzmán</a></iframe>
-        </Col>
-        </Row>
-
-        <Row>
-        <Col>
         <iframe style={{border: "0", width: "100%", height: "120px"}} src="https://bandcamp.com/EmbeddedPlayer/album=3924403652/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/sin-t-tulo-02-17-21-2">sin-título[02-17-21][2] by Roy F Guzmán</a></iframe>
-        </Col>
-        <Col>
         <iframe style={{border: "0", width: "100%", height: "120px"}} src="https://bandcamp.com/EmbeddedPlayer/album=4106805977/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/sin-t-tulo-19-03-21-1">sin-título[19-03-21][1] by Roy F Guzmán</a></iframe>
         </Col>
         </Row>
@@ -333,6 +326,9 @@ function ElectroAcoustic(props) {
         <Col>
         <iframe style={{border: "0", width: "100%", height: "120px"}} src="https://bandcamp.com/EmbeddedPlayer/album=1061591111/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/criollo-yu-ita-05-04-21-6">criollo-yu-ita[05-04-21][6] by Roy F Guzmán</a></iframe>
         </Col>
+        <Col>
+        <iframe style={{border: "0", width: "100%", height: "120px"}} src="https://bandcamp.com/EmbeddedPlayer/album=805728789/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/criollo-yu-26-01-21">criollo-yu[26-01-21] by Roy F Guzmán</a></iframe>
+        </Col>
         </Row>
 
 
@@ -358,9 +354,7 @@ function ElectroAcoustic(props) {
               </p>
               </div></Col>
               
-        <Col>
-        <iframe style={{border: "0", width: "100%", height: "120px"}} src="https://bandcamp.com/EmbeddedPlayer/album=805728789/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/criollo-yu-26-01-21">criollo-yu[26-01-21] by Roy F Guzmán</a></iframe>
-        </Col>
+        
         </Row>
 
         <Row>
