@@ -203,6 +203,13 @@ import image170 from "./Screen+Shot+2020-11-19+at+5.05.38+PM.png";
 import image171 from "./Screen+Shot+2020-11-19+at+5.05.45+PM.png";
 import image172 from "./Screen+Shot+2020-11-19+at+5.05.54+PM.png";
 
+import image173 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+1.jpg";
+import image174 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+2.jpg";
+import image175 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+3.jpg";
+import image176 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+4.jpg";
+import image177 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+5.jpg";
+
+import image178 from "./FB_IMG_1540761181753.jpg"
 export default function Scores(props) {
     
   return (
@@ -1709,7 +1716,7 @@ export default function Scores(props) {
 </Col>
 </Row>
   <h3>NUEVAS ABSTRACCIONES DE PETROGLIFOS TAÍNOS 2 [CUADRADOS, CÍRCULOS, TRIÁNGULOS, LÍNEAS]</h3>
-  
+  <h5>Imagenes de Carlos Martinez Palmer</h5>
 <Row>
 <Col>
   <Carousel fade>
@@ -2003,6 +2010,76 @@ export default function Scores(props) {
 
 </Col>
 </Row>  
+
+
+<h3>NUEVAS ABSTRACCIONES DE PETROGLIFOS TAÍNOS 2 [CUADRADOS, CÍRCULOS, TRIÁNGULOS, LÍNEAS]</h3>
+  <h5>Imagenes de Carlos Martinez Palmer</h5>
+  <Row>
+  <Col>
+    <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image173}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image174}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image175}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+  
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image176}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image177}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+    </Row>
+    <h3>PINEAPPLE KREEPY para uno o mas instrumentos</h3>
+
+  <Row>
+  <Col>
+  <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image178}>
+      </img> 
+      </Media> 
+
+    </Col>
+    </Row>
 </Container> 
 
 
