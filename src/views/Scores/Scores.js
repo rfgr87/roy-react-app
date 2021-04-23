@@ -172,7 +172,7 @@ import image141 from "./CuadradoVerde.png";
 
 import image142 from "./Como-leer-petroglifos-tainos-1.jpg";
 import image143 from "./Como-leer-petroglifos-tainos-2.jpg";
-import image144 from "./Como-leer-petroglifos-taiinos-3.jpg";
+import image144 from "./Como-leer-petroglifos-tainos-3.jpg";
 
 import image145 from "./Screen+Shot+2020-11-19+at+4.36.31+PM.png";
 import image146 from "./Screen+Shot+2020-11-19+at+4.36.40+PM.png";
