@@ -62,9 +62,9 @@ import image33 from "./MA19.png"
 import image34 from "./MA20.png"
 import image35 from "./MA21.png"
 
-import image36 from "./Como leer petroglifos taínos 1.jpg";
-import image37 from "./Como leer petroglifos taínos 2.jpg";
-import image38 from "./Como leer petroglifos taínos 3.jpg";
+import image36 from "./Como-leer-petroglifos-taínos-1.jpg";
+import image37 from "./Como-leer-petroglifos-taínos-2.jpg";
+import image38 from "./Como-leer-petroglifos-taínos-3.jpg";
 import image39 from "./Screen+Shot+2020-10-31+at+8.33.10+PM.png";
 import image40 from "./Screen+Shot+2020-10-31+at+8.33.16+PM.png";
 import image41 from "./Screen+Shot+2020-10-31+at+8.33.21+PM.png";
@@ -170,9 +170,9 @@ import image139 from "./MetaComposition.jpg";
 import image140 from "./Meta2.jpg";
 import image141 from "./CuadradoVerde.png";
 
-import image142 from "./Como leer petroglifos taínos 1.jpg";
-import image143 from "./Como leer petroglifos taínos 2.jpg";
-import image144 from "./Como leer petroglifos taínos 3.jpg";
+import image142 from "./Como-leer-petroglifos-taínos-1.jpg";
+import image143 from "./Como-leer-petroglifos-taínos-2.jpg";
+import image144 from "./Como-leer-petroglifos-taínos-3.jpg";
 
 import image145 from "./Screen+Shot+2020-11-19+at+4.36.31+PM.png";
 import image146 from "./Screen+Shot+2020-11-19+at+4.36.40+PM.png";
@@ -238,6 +238,12 @@ import image199 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 
 import image200 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 5.jpg";
 import image201 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 6.jpg";
 
+import image202 from "./AbstraccionesJíbaras1.jpg";
+import image203 from "./AbstraccionesJíbaras2.jpg";
+import image204 from "./AbstraccionesJíbaras3.jpg";
+import image205 from "./AbstraccionesJíbaras4.jpg";
+import image206 from "./AbstraccionesJíbaras5.jpg";
+import image207 from "./AbstraccionesJíbaras6.jpg";
 
 
 export default function Scores(props) {
@@ -2339,6 +2345,68 @@ export default function Scores(props) {
      width="100%"
      height="100%" 
      src={image201}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+    </Row>
+
+    <Row>
+    <Col>
+  <h3>Abstracciones Jíbaras Para Orquesta De Cámara</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image202}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image203}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image204}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image205}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image206}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image207}>
       </img> 
       </Media> 
     </Carousel.Item>
