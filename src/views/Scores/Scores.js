@@ -210,6 +210,36 @@ import image176 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+4.jpg";
 import image177 from "./Petroglifos+Tainos+2+-+Cuadrados+-+Para+Piano+5.jpg";
 
 import image178 from "./FB_IMG_1540761181753.jpg"
+
+import image179 from "./foto1.jpg";
+import image180 from "./foto2.jpg";
+import image181 from "./foto3.jpg";
+import image182 from "./foto4.jpg";
+import image183 from "./foto5.jpg";
+import image184 from "./foto6.jpg";
+import image185 from "./foto7.jpg";
+import image186 from "./foto8.jpg";
+import image187 from "./foto9.jpg";
+import image188 from "./foto11.jpg";
+
+import image189 from "./144275271_242361870799539_9042826646577602601_o.jpg";
+import image190 from "./Analogias Anatopicas.jpg";
+
+import image191 from "./Patrones de Guerra 1.jpg";
+import image192 from "./Patrones de Guerra 2.jpg";
+import image193 from "./Patrones de Guerra 3.jpg";
+import image194 from "./Patrones de Guerra 4.jpg";
+
+import image195 from "./Axioma De Petroglifos Tainos Foto.png";
+import image196 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 1.jpg";
+import image197 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 2.jpg";
+import image198 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 3.jpg";
+import image199 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 4.jpg";
+import image200 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 5.jpg";
+import image201 from "./Axiomas De Petroglifos Tainos Para Orquestas De Cámara 6.jpg";
+
+
+
 export default function Scores(props) {
     
   return (
@@ -2004,10 +2034,7 @@ export default function Scores(props) {
     </img> 
     </Media> 
   </Carousel.Item>
- 
 </Carousel>
-
-
 </Col>
 </Row>  
 
@@ -2066,10 +2093,11 @@ export default function Scores(props) {
     </Carousel>
     </Col>
     </Row>
-    <h3>PINEAPPLE KREEPY para uno o mas instrumentos</h3>
 
   <Row>
   <Col>
+  <h3>PINEAPPLE KREEPY para uno o mas instrumentos</h3>
+
   <Media>
     <img
      width="100%"
@@ -2077,9 +2105,251 @@ export default function Scores(props) {
      src={image178}>
       </img> 
       </Media> 
+</Col>
+   
 
+   <Col>
+   <h3>Bellezas Del Deterioro</h3>
+
+    <Carousel fade>
+    <Carousel.Item>
+
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image179}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image180}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image181}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+  
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image182}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image183}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image184}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image185}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image186}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image187}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image188}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
     </Col>
     </Row>
+
+
+  <Row>
+  <Col>
+  <h3>Folklore Abstracto #1</h3>
+  <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image189}>
+      </img> 
+      </Media> 
+  </Col>
+  
+  <Col>
+  <h3>Analogías Anatópicas</h3>
+  <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image190}>
+      </img> 
+      </Media> 
+  </Col>
+  </Row>
+   
+  
+  <Row>
+  <Col>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image191}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image192}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image193}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image194}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+   
+  <Col>
+  <h3>Axiomas De Petroglifos Taínos Para Orquesta De Cámara</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image195}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image196}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image197}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image198}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image199}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image200}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image201}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+    </Row>
+
+
+
+
+
 </Container> 
 
 
