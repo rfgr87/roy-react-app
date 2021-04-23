@@ -62,9 +62,9 @@ import image33 from "./MA19.png"
 import image34 from "./MA20.png"
 import image35 from "./MA21.png"
 
-import image36 from "./Como-leer-petroglifos-taínos-1.jpg";
-import image37 from "./Como-leer-petroglifos-taínos-2.jpg";
-import image38 from "./Como-leer-petroglifos-taínos-3.jpg";
+import image36 from "./Como-leer-petroglifos-tainos-1.jpg";
+import image37 from "./Como-leer-petroglifos-tainos-2.jpg";
+import image38 from "./Como-leer-petroglifos-tainos-3.jpg";
 import image39 from "./Screen+Shot+2020-10-31+at+8.33.10+PM.png";
 import image40 from "./Screen+Shot+2020-10-31+at+8.33.16+PM.png";
 import image41 from "./Screen+Shot+2020-10-31+at+8.33.21+PM.png";
