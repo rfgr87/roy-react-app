@@ -62,9 +62,9 @@ import image33 from "./MA19.png"
 import image34 from "./MA20.png"
 import image35 from "./MA21.png"
 
-import image36 from "./Como+leer+petroglifos+taínos+1.jpg";
-import image37 from "./Como+leer+petroglifos+taínos+2.jpg";
-import image38 from "./Como+leer+petroglifos+taínos+3.jpg";
+import image36 from "./Como leer petroglifos taínos 1.jpg";
+import image37 from "./Como leer petroglifos taínos 2.jpg";
+import image38 from "./Como leer petroglifos taínos 3.jpg";
 import image39 from "./Screen+Shot+2020-10-31+at+8.33.10+PM.png";
 import image40 from "./Screen+Shot+2020-10-31+at+8.33.16+PM.png";
 import image41 from "./Screen+Shot+2020-10-31+at+8.33.21+PM.png";
@@ -170,9 +170,9 @@ import image139 from "./MetaComposition.jpg";
 import image140 from "./Meta2.jpg";
 import image141 from "./CuadradoVerde.png";
 
-import image142 from "./Como+leer+petroglifos+taínos+1.jpg";
-import image143 from "./Como+leer+petroglifos+taínos+2.jpg";
-import image144 from "./Como+leer+petroglifos+taínos+3.jpg";
+import image142 from "./Como leer petroglifos taínos 1.jpg";
+import image143 from "./Como leer petroglifos taínos 2.jpg";
+import image144 from "./Como leer petroglifos taínos 3.jpg";
 
 import image145 from "./Screen+Shot+2020-11-19+at+4.36.31+PM.png";
 import image146 from "./Screen+Shot+2020-11-19+at+4.36.40+PM.png";
