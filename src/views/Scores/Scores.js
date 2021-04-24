@@ -322,6 +322,10 @@ import image263 from "./Aurora1.jpg";
 import image264 from "./Aurora2.jpg";
 import image265 from "./Aurora3.jpg";
 
+import image266 from "./Garabato1.png";
+import image267 from "./Garabato2.jpg";
+import image268 from "./Garabato3.jpg";
+
 export default function Scores(props) {
     
   return (
@@ -3216,6 +3220,38 @@ export default function Scores(props) {
     </Carousel>
       
     </Col>
+    </Row>
+
+    <Row>  
+      <Col>
+      <h3>Garabato</h3>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image266}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image267}>
+      </img> 
+      </Media> 
+      </Col>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image268}>
+      </img> 
+      </Media> 
+      </Col>
+   
     </Row>
 
 
