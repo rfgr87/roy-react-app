@@ -326,6 +326,22 @@ import image266 from "./Garabato1.png";
 import image267 from "./Garabato2.jpg";
 import image268 from "./Garabato3.jpg";
 
+import image269 from "./Azul1.jpg";
+import image270 from "./Azul2.jpg";
+import image271 from "./Azul3.jpg";
+
+import image272 from "./A+Stupid+Butterfly+1.png";
+import image273 from "./A+Stupid+Butterfly+2.png";
+import image274 from "./A+Stupid+Butterfly+3.png";
+import image275 from "./A+Stupid+Butterfly+4.png";
+
+import image276 from "./Para Los Lagartijos1.jpg";
+import image277 from "./Para Los Lagartijos2.jpg";
+
+import image278 from "./96.1.jpeg";
+import image279 from "./96.2.jpeg";
+import image280 from "./96.3jpeg.jpeg";
+
 export default function Scores(props) {
     
   return (
@@ -3252,6 +3268,134 @@ export default function Scores(props) {
       </Media> 
       </Col>
    
+    </Row>
+
+    <h3>Azul Para Cuarteto de Cuerdas</h3>
+    <Row>  
+
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image269}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image270}>
+      </img> 
+      </Media> 
+      </Col>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image271}>
+      </img> 
+      </Media> 
+      </Col>
+   
+    </Row>
+
+    <h3>A Stupid Butter Fly</h3>
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image272}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image273}>
+      </img> 
+      </Media> 
+      </Col>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image274}>
+      </img> 
+      </Media> 
+      </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image275}>
+      </img> 
+      </Media> 
+      </Col>
+   
+    </Row>
+
+    <h3>Pa Los Lagartijos - Una Melodia Andina</h3>
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image276}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image277}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+
+    <h3>96 para Guitarra, Trompeta y Contrabajo</h3>
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image278}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image279}>
+      </img> 
+      </Media> 
+      </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image280}>
+      </img> 
+      </Media> 
+      </Col>
     </Row>
 
 
