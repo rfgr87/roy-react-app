@@ -2973,10 +2973,10 @@ export default function Scores(props) {
 
               }}>
               <p>
-                {"Trompetista - Juan Luis O'Halloran"}<br></br><br></br>
-                {"Composición - Roy F Guzmán"}<br></br><br></br>
-                {"Esta obra es una de las obras catalogadas como parte de la corriente llamada Música A Lo Pobre. Se explora los sonidos de una imperfección técnica logrando una virtuosidad dentro de este sonido de artefactos producidos por el enfoque en este espacio entre las técnicas tradicionales y las técnicas extendidas. Este area sonora se enfoca en no resaltar ni la perfección de un sonido tradicional ni la perfección de las meticulosas técnicas extendidas si no que explora la sonoridad cruda, sucia y de artefactos indeterminados producidos por el enfoque técnico de la utilización de movimientos físicos del instrumentista en ves de la musicalidad. Se explora la limitación, la crudeza, la resiliencia y el sonido abstracto folklórico de este instrumento."}<br></br><br></br>
-                {"La obra esta escrita gráficamente donde se enfatiza cambios de presión de aire y movimientos aleatorios de los dedos en cualquier rango de distancia de los pistones. Se enfatiza en morfológicas complejas y el artefacto de saltos de harmónicos. El trompetista está encargado de ensamblar la estructura basada en unas indicaciones de velocidad, una gráfica multidimensional y su libre albedrío e interpretación de la partitura gráfica."}<br></br>
+                {"Estrella es una pieza para orquesta basada en Guaguancó. Cada instrumento empieza tocando Guaguancó sobre una clave individual para cada uno. Esta clave se modula rápidamente expandiéndola convirtiendo el último ataque de la clave en el primer ataque del proximo modulada a esa duración mas larga. La clave se contrae convirtiendo el cuarto ataque en el primer ataque de la próxima clave modulándola a esa duración. Hay unas notas escogidas para toda la orquesta y los instrumentos de registro agudo tocan como si fueran quintos, los instrumentos de registro medio tocan como quinto, como tumbadora y como cajón, los instrumentos de registro grave tocan como cajón."}<br></br><br></br>
+                {"I es Tenuto "}<br></br>
+                {"II es Staccato"}<br></br>
+                {"III Variación notas adicionales de los primeros harmónicos de cada una de las cuatro notas principales."}<br></br>
               </p>
               </div>   
               </Col>
