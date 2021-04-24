@@ -245,6 +245,33 @@ import image205 from "./AbstraccionesJíbaras4.jpg";
 import image206 from "./AbstraccionesJíbaras5.jpg";
 import image207 from "./AbstraccionesJíbaras6.jpg";
 
+import image208 from "./Villa Palmera I 1.jpg";
+import image209 from "./Villa Palmera I 2.jpg";
+import image210 from "./Villa Palmera I 3.jpg";
+import image211 from "./Villa Palmera I 4.jpg";
+import image212 from "./Villa Palmera I 5.jpg";
+
+import image213 from "./Santurce I 1.jpg";
+import image214 from "./Santurce I 2.jpg";
+import image215 from "./Santurce I 3.jpg";
+import image216 from "./Santurce I 4.jpg";
+import image217 from "./Santurce I 5.jpg";
+import image218 from "./Santurce I 6.jpg";
+import image219 from "./Santurce I 7.jpg";
+import image220 from "./Santurce I 8.jpg";
+import image221 from "./Santurce I 9.jpg";
+
+import image222 from "./La Perla 1.jpg";
+import image223 from "./La Perla 2.jpg";
+import image224 from "./La Perla 3.jpg";
+import image225 from "./La Perla 4.jpg";
+import image226 from "./La Perla 5.jpg";
+import image227 from "./La Perla 6.jpg";
+import image228 from "./La Perla 7.jpg";
+import image229 from "./La Perla 8.jpg";
+
+
+
 
 export default function Scores(props) {
     
@@ -2413,6 +2440,118 @@ export default function Scores(props) {
     </Carousel>
     </Col>
     </Row>
+
+    <Row>
+    <Col>
+  <h3>Villa Palmera</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image208}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image209}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image210}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image211}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image212}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+
+    <Col>
+  <h3>La Perla</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image208}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image209}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image210}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image211}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image212}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+
+
+
+
+
+
+
+    </Row>
+
 
 
 
