@@ -301,7 +301,26 @@ import image248 from "./Arawakos.png";
 
 import image249 from "./Chile.jpg";
 
-import image250 from "./Dax.jpg"
+import image250 from "./Dax.jpg";
+
+import image251 from "./Balacea1.png";
+import image252 from "./Balacea2.jpg";
+import image253 from "./Balacea3.jpeg";
+import image254 from "./Balacea4.jpg";
+import image255 from "./Balacea5.jpg";
+import image256 from "./Balacea6.jpg";
+
+import image257 from "./1+Preview+of+“Piece+for+Piano+1+I.JPG”.jpg";
+import image258 from "./1+Preview+of+“Piece+for+Piano+1+II.JPG”.jpg";
+import image259 from "./1+Preview+of+“Piece+for+Piano+1+III.JPG”.jpg";
+
+import image260 from "./Piano+Piece+2-1.jpg";
+import image261 from "./Piano+Piece+2-2.jpg";
+import image262 from "./Piano+Piece+2-3.jpg";
+
+import image263 from "./Aurora1.jpg";
+import image264 from "./Aurora2.jpg";
+import image265 from "./Aurora3.jpg";
 
 export default function Scores(props) {
     
@@ -2850,6 +2869,8 @@ export default function Scores(props) {
       </Media> 
     </Col>
     </Row>
+
+
     <Row>
     <Col>
     <h3>Abstracción Espiritual Contemporánea Boricua Sobre El Pacto Con La Tierra</h3>
@@ -3016,7 +3037,189 @@ export default function Scores(props) {
            </img> 
           </Media> 
           </Col>
+          <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image250}>
+           </img> 
+          </Media> 
+          </Col>
         </Row>
+
+
+
+  <Row>
+  <Col>
+  <h3>Balacea Para Piano</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image251}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image252}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image253}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image254}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image255}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image256}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col> 
+    
+    
+  <Col>
+  <h3>Piano Piece #1</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image257}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image258}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image259}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col> 
+    
+  <Col>
+  <h3>Piano Piece #2</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image260}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image261}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image262}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col> 
+    </Row>
+
+    <Row>  
+      <Col>
+      <h3>Aurora Para Guitarras</h3>
+      <iframe style={{border: "0", width: "350px", height: "470px"}} src="https://bandcamp.com/EmbeddedPlayer/album=2691818908/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/aurora">Aurora by Roy F Guzmán</a></iframe>        
+      </Col>
+        <Col>
+        <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image263}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image264}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image265}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+      
+    </Col>
+    </Row>
+
+
+
 
 </Container> 
 
