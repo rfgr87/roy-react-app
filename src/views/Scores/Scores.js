@@ -2494,14 +2494,14 @@ export default function Scores(props) {
     </Col>
 
     <Col>
-  <h3>La Perla</h3>
+  <h3>Santurce</h3>
   <Carousel fade>
     <Carousel.Item>
     <Media>
     <img
      width="100%"
      height="100%" 
-     src={image208}>
+     src={image213}>
       </img> 
       </Media> 
     </Carousel.Item>
@@ -2510,7 +2510,7 @@ export default function Scores(props) {
     <img
      width="100%"
      height="100%"  
-     src={image209}>
+     src={image214}>
       </img> 
       </Media> 
     </Carousel.Item>
@@ -2519,7 +2519,7 @@ export default function Scores(props) {
     <img
      width="100%"
      height="100%"  
-     src={image210}>
+     src={image215}>
       </img> 
       </Media> 
     </Carousel.Item>
@@ -2528,7 +2528,7 @@ export default function Scores(props) {
     <img
      width="100%"
      height="100%" 
-     src={image211}>
+     src={image216}>
       </img> 
       </Media> 
     </Carousel.Item>
@@ -2537,7 +2537,43 @@ export default function Scores(props) {
     <img
      width="100%"
      height="100%" 
-     src={image212}>
+     src={image217}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image218}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image219}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image220}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image221}>
       </img> 
       </Media> 
     </Carousel.Item>
@@ -2545,8 +2581,83 @@ export default function Scores(props) {
     </Col>
 
 
-
-
+  <Col>
+  <h3>La Perla</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image222}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image223}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image224}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image225}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image226}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image227}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image228}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image229}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
 
 
 
