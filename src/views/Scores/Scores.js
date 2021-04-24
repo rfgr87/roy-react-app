@@ -2658,10 +2658,61 @@ export default function Scores(props) {
     </Carousel.Item>
     </Carousel>
     </Col>
-
-
-
     </Row>
+
+
+
+    <Row>  
+        <Col>
+        <h3>Música A Lo Pobre - [0​,​1​,​2​,​3​,​4​,​5​,​6​,​7​,​8​,​10​,​12​,​16] para Orquesta</h3>
+        <iframe style={{border: "0", width: "350px", height: "470px"}} src="https://bandcamp.com/EmbeddedPlayer/album=4229161614/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/012345678101216-para-orquesta">[0,1,2,3,4,5,6,7,8,10,12,16] para Orquesta by Roy F Guzman</a></iframe>
+       
+        </Col>
+         <Col>
+         <h3>Musica A Lo Pobre</h3><br></br>
+         <h5>Música A Lo Pobre -  Limitación y Resiliencia como Estética</h5>
+         <div style={{ 
+              position: "relative",
+              fontSize: "70%",
+              fontFamily: "Menlo",
+              fontWeight: "normal",
+              fontStyle: "normal",
+              fontFamily: "Menlo",
+              color: "red",
+              borderWidth:2,
+              borderColor: 'red',
+              margin: "0px",
+              width: "100%",
+              border: '1px solid black',
+              marginBottom: "10px",
+              padding: "5%"
+
+              }}>
+              <p>
+                {"La limitación y la resiliencia me an interesado muchísimo como motor estético y conceptual. Partir de la frase que la “necesidad es la madre de la invención” me parece un punto de partida muy potente. Algo que me e fijado pensando sobre algunas innovaciones artísticas conceptuales y estéticas relevantes en la historia es que algunas y muchas an sido resultado de alguna limitación de alguna forma. Muchas an sido innovaciones basados en conceptos profundos conceptuales también pero las que personalmente me an interesado son estas estéticas basadas en limitación, de una manera positiva de la palabra. Mejor dicho en la convicción de presentar algo con los medios, destreza y materiales disponibles. Quizás una mejor manera de verlo es “enfoque”, concentración conceptual más que limitación. La creación de un lenguaje, un concepto basado en los recursos disponibles conceptualmente y de material. El Arte-Povera de Italia me parece un buen ejemplo."}<br></br><br></br>
+                {"El folclor para mi es un sistema dinámico con una paleta de posibilidades limitadas en relación a todas las disponibles en el mundo musical. Esta limitación crea una consistencia estética que se convierte en un lenguaje, estética y concepto individual y nuevo en relación a todo lo que existe. El guaguancó, la música andina, la música jíbara, en general todos los folklores tienen su paleta de elementos limitados y esto crea una autenticidad e individualidad estética."}<br></br><br></br>
+                {"En mi investigación de maestría sobre teoría del caos me llevó a entender la infinitesimalidad, una infinitud hacia lo microscópico de una estructura caótica, o función por dejarlo en el campo matemático, puede ser análogo a las infinitudes de permutaciones de los limitados elementos disponibles. Buscar una abundancia dentro de la limitación. Expandir dentro de las limitaciones ya que se demuestra haber una infinitud de posibilidades dentro de ese rango de elementos. Este tipo de especialización y técnica de innovación estética se puede encontrar en el minimalismo. Se trata de un maximalismo dentro de un minimalismo. Morton Feldman es un gran ejemplo pero casi todos los compositores se an dedicado a una paleta limitada de posibilidades estéticas o conceptuales permutando las variables de los mismos con excepción a algunos que an recorrido diferentes estéticas como Ligeti."}<br></br><br></br>
+                {"Tomar esta situación precaria como motor estético y expandir dentro de el rango limitado usando la infinitud de permutaciones posibles de las variables accesibles musicales e investigar hacia lo microscópico. Una diferencia mínima se convertirá en una con relevancia e impacto enorme dentro del rango. Usar la situación actual a nuestra ventaja artística. Un ejemplo sería de hacer un tipo de Música a Lo Pobre por tomar prestado de la corriente artística Italiana y de un plato riquísimo Peruano que lleva el adjetivo “A Lo Pobre”."}<br></br><br></br>
+                {"Pues aquí la creación músical se llevaría a cabo en las pocas horas disponibles que un compositor en Puerto Rico que se niega a la institucionalización y burocracia de la música, para lograr una liberación y pureza artística ilimitada tuviera teniendo en su diario vivir un trabajo cualquiera para sobrevivir. El costo de lograr presentar las obras en algún espacio alternativo incluyendo los ensayos debe ser lo mínimo. Esto conlleva a concluir unas posibles características."}<br></br><br></br>
+                {"Abstracciones de Puerto Rico para Cuarteto de Cuerdas "}<br></br><br></br>
+                {"Estas piezas son creadas utilizando un procedimiento de composición propio llamado Abstracciones donde se utilizan partituras sonoras y se abstraen estas partituras interpretadas por instrumentistas. Se busca una abstracción obtenida por la imperfecta emulación del material de la partitura sonora, esto ayuda mediante los errores de emulación a pocas leídas tener una abstracción del material y de esta manera obtener un material nuevo."}<br></br><br></br>
+                {"Música a Lo Pobre"}<br></br>
+                {"1- Concepto, un ejemplo ligado a su nombre es la resiliencia, “hacer mucho con poco” y la limitación."}<br></br>
+                {"2- Fácil de ejecutar. Poca o ninguna necesidad de ensayo."}<br></br>
+                {"3- Técnicas composicionales que logren terminar una obra con el tiempo mínimo de tiempo"}<br></br>
+                {"4- El uso de gráficas, fotografías, notación tradicional mixta con no tradicional etc."}<br></br>
+                {"5- El uso de algorítmos y/o instrucciones en texto."}<br></br>
+                {"6- El uso de leyendas si se quiere guiar la lectura de gráficas y fotografías del instrumentista a niveles más específicos."}<br></br>
+                {"7- El uso de la improvisación, guiada o libre."}<br></br>
+                {"8- El uso de partituras sonoras."}<br></br>
+                {"9- Y las que se le ocurra utilizar que logre su objetivo en su tiempo limitado."}<br></br><br></br>
+                {"Todas estas técnicas tienen el potencial de lograr una variedad enorme de estéticas, desde estéticas caóticas, desordenadas y densas hasta estéticas delicadas y aparentemente ordenadas y meticulosas."}<br></br><br></br>
+                {"La posibilidad de aceptar la presentación de obras hechas por medios alternativos a la presentación en vivo de una obra se abre. El uso de la computadora para sonificar material composicional es un recurso accesible para el compositor que requiere de muchos instrumentistas para poder tocar su obra."}<br></br><br></br>
+                {"De esta manera es rentable el acto de componer y de presentar trabajos y crea un movimiento, hasta una estética que abraza las vicisitudes de la situación cultural y socio económica del país y las puede expresar en composiciones musicales logrando una estética particular basada en una resiliencia ante la situación."}           
+              </p>
+              </div>   
+              </Col>
+          </Row>
 
 
 
