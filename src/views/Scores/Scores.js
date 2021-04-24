@@ -297,6 +297,12 @@ import image246 from "./TrianguloCuadradoCirculo.png";
 
 import image247 from "./Estrella.jpg";
 
+import image248 from "./Arawakos.png";
+
+import image249 from "./Chile.jpg";
+
+import image250 from "./Dax.jpg"
+
 export default function Scores(props) {
     
   return (
@@ -2982,9 +2988,35 @@ export default function Scores(props) {
               </Col>
           </Row>
 
-
-
-
+          <Row>  
+         <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image247}>
+           </img> 
+          </Media>     
+          </Col>
+          <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image248}>
+           </img> 
+          </Media> 
+          </Col>      
+          <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image249}>
+           </img> 
+          </Media> 
+          </Col>
+        </Row>
 
 </Container> 
 
