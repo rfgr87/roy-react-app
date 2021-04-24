@@ -270,8 +270,32 @@ import image227 from "./La Perla 6.jpg";
 import image228 from "./La Perla 7.jpg";
 import image229 from "./La Perla 8.jpg";
 
+import image230 from "./Colores for String Quartet with Legend 1.jpg";
+import image231 from "./Colores for String Quartet with Legend 2.jpg";
+import image232 from "./Colores for String Quartet with Legend 3.jpg";
+import image233 from "./Colores for String Quartet with Legend 4.jpg";
+import image234 from "./Colores for String Quartet with Legend 5.jpg";
+import image235 from "./Colores for String Quartet with Legend 6.jpg";
+import image236 from "./Colores for String Quartet with Legend 7.jpg";
+import image237 from "./Colores for String Quartet with Legend 8.jpg";
+import image238 from "./Colores for String Quartet with Legend 9.jpg";
+import image239 from "./Colores for String Quartet with Legend 10.jpg";
 
+import image240 from "./Primitives.png";
 
+import image241 from "./Abstracción Espiritual Boricua Sobre El Pacto Con La Tierra.jpg";
+
+import image242 from "./Escardillos Para Trompeta.jpg";
+
+import image243 from "./PlenaYBomba.png";
+
+import image244 from "./PiezaCaracoles.png";
+
+import image245 from "./Proporciones Extremas.png";
+
+import image246 from "./TrianguloCuadradoCirculo.png";
+
+import image247 from "./Estrella.jpg";
 
 export default function Scores(props) {
     
@@ -2714,6 +2738,249 @@ export default function Scores(props) {
               </Col>
           </Row>
 
+  <Row>
+  <Col>
+  <h3>Colores Para Cuarteto De Cuerdas</h3>
+  <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image230}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image231}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image232}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image233}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image234}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image235}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image236}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image237}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image238}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image239}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image240}>
+      </img> 
+      </Media> 
+    </Col>
+    </Row>
+    <Row>
+    <Col>
+    <h3>Abstracción Espiritual Contemporánea Boricua Sobre El Pacto Con La Tierra</h3>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image241}>
+      </img> 
+      </Media> 
+    </Col>
+    </Row>
+
+    <Row>  
+        <Col>
+        <h3>Escardillos Para Trompeta</h3>
+        <iframe style={{border: "0", width: "350px", height: "470px"}} src="https://bandcamp.com/EmbeddedPlayer/album=988926118/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/escardillos-para-trompeta-juan-luis-ohalloran">Escardillos Para Trompeta - Juan Luis O&#39;Halloran by Roy F Guzmán</a></iframe>
+        </Col>
+         <Col>
+         <h3>Escardillos Para Trompeta</h3><br></br>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image242}>
+           </img> 
+          </Media> 
+         <div style={{ 
+              position: "relative",
+              fontSize: "70%",
+              fontFamily: "Menlo",
+              fontWeight: "normal",
+              fontStyle: "normal",
+              fontFamily: "Menlo",
+              color: "red",
+              borderWidth:2,
+              borderColor: 'red',
+              margin: "0px",
+              width: "100%",
+              border: '1px solid black',
+              marginBottom: "10px",
+              padding: "5%"
+
+              }}>
+              <p>
+                {"Trompetista - Juan Luis O'Halloran"}<br></br><br></br>
+                {"Composición - Roy F Guzmán"}<br></br><br></br>
+                {"Esta obra es una de las obras catalogadas como parte de la corriente llamada Música A Lo Pobre. Se explora los sonidos de una imperfección técnica logrando una virtuosidad dentro de este sonido de artefactos producidos por el enfoque en este espacio entre las técnicas tradicionales y las técnicas extendidas. Este area sonora se enfoca en no resaltar ni la perfección de un sonido tradicional ni la perfección de las meticulosas técnicas extendidas si no que explora la sonoridad cruda, sucia y de artefactos indeterminados producidos por el enfoque técnico de la utilización de movimientos físicos del instrumentista en ves de la musicalidad. Se explora la limitación, la crudeza, la resiliencia y el sonido abstracto folklórico de este instrumento."}<br></br><br></br>
+                {"La obra esta escrita gráficamente donde se enfatiza cambios de presión de aire y movimientos aleatorios de los dedos en cualquier rango de distancia de los pistones. Se enfatiza en morfológicas complejas y el artefacto de saltos de harmónicos. El trompetista está encargado de ensamblar la estructura basada en unas indicaciones de velocidad, una gráfica multidimensional y su libre albedrío e interpretación de la partitura gráfica."}<br></br>
+              </p>
+              </div>   
+              </Col>
+          </Row>
+
+
+        <Row>  
+         <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image243}>
+           </img> 
+          </Media> 
+          </Col>
+          <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image244}>
+           </img> 
+          </Media> 
+          </Col>
+          </Row>
+          <Row>
+          <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image245}>
+           </img> 
+          </Media> 
+          </Col>
+          <Col>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image246}>
+           </img> 
+          </Media> 
+          </Col>
+        </Row>
+
+        <Row>  
+        <Col>
+        <h3>Estrella Para Orquesta</h3>
+        <iframe style={{border: "0", width: "350px", height: "470px"}} src="https://bandcamp.com/EmbeddedPlayer/album=521323084/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/estrella-para-orquesta">Estrella para Orquesta by Roy F Guzman</a></iframe>
+        
+        </Col>
+         <Col>
+         <h3>Estrella Para Orquesta</h3><br></br>
+         <Media>
+          <img
+           width="100%"
+          height="100%" 
+            src={image247}>
+           </img> 
+          </Media> 
+         <div style={{ 
+              position: "relative",
+              fontSize: "70%",
+              fontFamily: "Menlo",
+              fontWeight: "normal",
+              fontStyle: "normal",
+              fontFamily: "Menlo",
+              color: "red",
+              borderWidth:2,
+              borderColor: 'red',
+              margin: "0px",
+              width: "100%",
+              border: '1px solid black',
+              marginBottom: "10px",
+              padding: "5%"
+
+              }}>
+              <p>
+                {"Trompetista - Juan Luis O'Halloran"}<br></br><br></br>
+                {"Composición - Roy F Guzmán"}<br></br><br></br>
+                {"Esta obra es una de las obras catalogadas como parte de la corriente llamada Música A Lo Pobre. Se explora los sonidos de una imperfección técnica logrando una virtuosidad dentro de este sonido de artefactos producidos por el enfoque en este espacio entre las técnicas tradicionales y las técnicas extendidas. Este area sonora se enfoca en no resaltar ni la perfección de un sonido tradicional ni la perfección de las meticulosas técnicas extendidas si no que explora la sonoridad cruda, sucia y de artefactos indeterminados producidos por el enfoque técnico de la utilización de movimientos físicos del instrumentista en ves de la musicalidad. Se explora la limitación, la crudeza, la resiliencia y el sonido abstracto folklórico de este instrumento."}<br></br><br></br>
+                {"La obra esta escrita gráficamente donde se enfatiza cambios de presión de aire y movimientos aleatorios de los dedos en cualquier rango de distancia de los pistones. Se enfatiza en morfológicas complejas y el artefacto de saltos de harmónicos. El trompetista está encargado de ensamblar la estructura basada en unas indicaciones de velocidad, una gráfica multidimensional y su libre albedrío e interpretación de la partitura gráfica."}<br></br>
+              </p>
+              </div>   
+              </Col>
+          </Row>
 
 
 
