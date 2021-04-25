@@ -426,6 +426,29 @@ import image357 from "./Intentos de Mi Organicidad para Orquesta de Cámara 1.jp
 import image358 from "./Intentos de Mi Organicidad para Orquesta de Cámara 2.jpg";
 import image359 from "./Intentos de Mi Organicidad para Orquesta de Cámara 3.jpg";
 
+import image360 from "./Destroying+Imperialist+Ideals.jpg";
+import image361 from "./ABC.png";
+import image362 from "./Escardillos Para Vientos Maderas y Saxos.png";
+import image363 from "./Reconquista.jpg";
+import image364 from "./String+quartet+#3+-+1.jpg";
+import image365 from "./Seis+Cubista.jpg";
+import image366 from "./Trio+de+Metales.jpg";
+import image367 from "./Cosas+Sencillas+para+uno+o+mas+instrumentos+1.jpg";
+import image368 from "./Cosas+Sencillas+para+uno+o+mas+instrumentos+2.jpg";
+
+import image369 from "./Non+Duality+in+Musical+Composition.jpg";
+import image370 from "./Non+Duality+in+Musical+Composition+2.jpg";
+import image371 from "./Non+Duality+in+Musical+Composition+3.jpg";
+
+import image372 from "./Cosas+Sencillas+para+uno+o+mas+instrumentos+1.jpg";
+import image373 from "./Cosas+Sencillas+para+uno+o+mas+instrumentos+2.jpg";
+
+import image374 from "./Para+Los+Mayas+-+2021.jpg";
+
+import image375 from "./Relaciones Lógicas Discretas 1.jpg";
+import image376 from "./Relaciones Lógicas Discretas 2.jpg";
+
+
 export default function Scores(props) {
     
   return (
@@ -4285,7 +4308,186 @@ export default function Scores(props) {
     </Col>
     </Row>
 
-   
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image360}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image361}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image362}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image363}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image364}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image365}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image366}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image367}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image368}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image369}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image370}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image371}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image372}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image373}>
+      </img> 
+      </Media> 
+      </Col>
+      </Row>
+      <Row>
+      <Col>
+
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image374}>
+      </img> 
+      </Media> 
+      </Col>
+      <Col>
+      <Carousel>
+      <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image375}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image376}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    </Carousel>
+      </Col>
+    </Row>
 
 
 
