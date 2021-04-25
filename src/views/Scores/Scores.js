@@ -357,6 +357,75 @@ import image292 from "./SQII+12.jpg";
 import image293 from "./SQII+13.jpg";
 import image294 from "./SQII+14.jpg";
 
+import image295 from "./SerieDeObrasSencillas.png";
+import image296 from "./AcordesEnSusEscalasInversas.jpg";
+import image297 from "./---.jpg";
+
+import image298 from "./numeritos1.jpg";
+import image299 from "./numeritos2.jpg";
+import image300 from "./numeritos3.jpg";
+import image301 from "./numeritos4.jpg";
+import image302 from "./numeritos5.jpg";
+import image303 from "./numeritos6.jpg";
+import image304 from "./numeritos7.jpg";
+import image305 from "./numeritos8.jpg";
+import image306 from "./numeritos9.jpg";
+import image307 from "./numeritos10.jpg";
+import image308 from "./numeritos11.jpg";
+import image309 from "./numeritos12.jpg";
+import image310 from "./numeritos13.jpg";
+
+import image311 from "./Aguinaldo Caguano 1.jpg";
+import image312 from "./Aguinaldo Cagueno 2.jpg";
+import image313 from "./Aguinaldo Cagueno 3.jpg";
+import image314 from "./Aguinaldo Cagueno 4.jpg";
+import image315 from "./Aguinaldo Cagueno 5.jpg";
+import image316 from "./Aguinaldo Cagueno 6.jpg";
+import image317 from "./Aguinaldo Orocoveno 1.jpg";
+import image318 from "./Aguinaldo Orocoveno 2.jpg";
+import image319 from "./Aguinaldo Orocoveno 3.jpg";
+import image320 from "./Aguinaldo Orocoveno 4.jpg";
+import image321 from "./Aguinalod Orocoveno 5.jpg";
+import image322 from "./Mapeye+1.jpg";
+import image323 from "./Mapeye+2.jpg";
+import image324 from "./Mapeye+3.jpg";
+import image325 from "./Mapeye+4.jpg";
+import image326 from "./Mapeye+6.jpg";
+import image327 from "./Mapeye+7.jpg";
+import image328 from "./Mapeye+8.jpg";
+import image329 from "./Seis Cayeyano 1.jpg";
+import image330 from "./Seis Cayeyano 2.jpg";
+import image331 from "./Seis Cayeyano 3.jpg";
+import image332 from "./Seis Cayeyano 4.jpg";
+import image333 from "./Seis Cayeyano 5.jpg";
+import image334 from "./Seis Cayeyano 6-1.jpg";
+import image335 from "./Seis Cayeyano 6-2.jpg";
+import image336 from "./Seis Cayeyano 6-3.jpg";
+import image337 from "./Seis Fajardeno 1.jpg";
+import image338 from "./Seis Fajardeno 2.jpg";
+import image339 from "./Seis Fajardeno 3.jpg";
+import image340 from "./Seis Fajardeno 4.jpg";
+import image341 from "./Seis+Con+Decimas+1.jpg";
+import image342 from "./Seis+Con+Decimas+2.jpg";
+import image343 from "./Seis+Con+Decimas+3.jpg";
+import image344 from "./Seis+Con+Decimas+4.jpg";
+import image345 from "./Seis+Con+Decimas+5.jpg";
+import image346 from "./Seis+Con+Decimas+6.jpg";
+import image347 from "./Seis+Con+Decimas+7.jpg";
+import image348 from "./Seis+Con+Decimas+8.jpg";
+import image349 from "./Seis+De+Andino+1.jpg";
+import image350 from "./Seis+De+Andino+2.jpg";
+import image351 from "./Seis+De+Andino+3.jpg";
+import image352 from "./Seis+De+Andino+4.jpg";
+import image353 from "./Seis+De+Andino+5.jpg";
+import image354 from "./Seis+De+Andino+6.jpg";
+import image355 from "./Seis+De+Andino+7.jpg";
+import image356 from "./Seis+De+Andino+8.jpg";
+
+import image357 from "./Intentos de Mi Organicidad para Orquesta de Cámara 1.jpg";
+import image358 from "./Intentos de Mi Organicidad para Orquesta de Cámara 2.jpg";
+import image359 from "./Intentos de Mi Organicidad para Orquesta de Cámara 3.jpg";
+
 export default function Scores(props) {
     
   return (
@@ -3561,6 +3630,664 @@ export default function Scores(props) {
       </Media> 
       </Col>
     </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image295}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image297}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image296}>
+      </img> 
+      </Media> 
+      </Col>
+      
+      <Col>
+      <h3>[numeritos]</h3>
+        <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image298}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image299}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image300}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image301}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image302}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image303}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image304}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image305}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image306}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image307}>
+      </img> 
+      </Media> 
+    </Carousel.Item>  
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image308}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image309}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image310}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    </Carousel>
+    </Col>
+    </Row>
+
+    <Row>
+    <Col>
+      <h3>Música Axiomática Jíbara</h3>
+        <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image311}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image312}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image313}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image314}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image315}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image316}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image317}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image318}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image319}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image320}>
+      </img> 
+      </Media> 
+    </Carousel.Item>  
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image321}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image322}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image323}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image324}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image325}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image326}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image327}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image328}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image329}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image330}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image331}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image332}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image333}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image333}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image334}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image335}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image336}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image337}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image338}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image339}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image340}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image341}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image342}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image343}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image344}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image345}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image346}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image347}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image348}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image349}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image350}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image351}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image352}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image353}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image354}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image355}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image356}>
+      </img> 
+      </Media> 
+    </Carousel.Item> 
+    </Carousel>
+    </Col>
+
+    <Col>
+      <h3>Intentos De Mi Organicidad</h3>
+        <Carousel fade>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image357}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image358}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    <Carousel.Item>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image359}>
+      </img> 
+      </Media> 
+    </Carousel.Item>
+    </Carousel>
+    </Col>
+    </Row>
+
+   
+
+
 
 </Container> 
 
