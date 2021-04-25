@@ -342,6 +342,21 @@ import image278 from "./96.1.jpeg";
 import image279 from "./96.2.jpeg";
 import image280 from "./96.3jpeg.jpeg";
 
+import image281 from "./SQII+1.jpg";
+import image282 from "./SQII+2.jpg";
+import image283 from "./SQII+3.jpg";
+import image284 from "./SQII+4.jpg";
+import image285 from "./SQII+5.jpg";
+import image286 from "./SQII+6.jpg";
+import image287 from "./SQII+7.jpg";
+import image288 from "./SQII+8.jpg";
+import image289 from "./SQII+9.jpg";
+import image290 from "./SQII+10.jpg";
+import image291 from "./SQII+11.jpg";
+import image292 from "./SQII+12.jpg";
+import image293 from "./SQII+13.jpg";
+import image294 from "./SQII+14.jpg";
+
 export default function Scores(props) {
     
   return (
@@ -3399,7 +3414,153 @@ export default function Scores(props) {
     </Row>
 
 
+    <h3>String Quartet # 2</h3>
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image281}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image282}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
 
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image283}>
+      </img> 
+      </Media> 
+      </Col>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image284}>
+      </img> 
+      </Media> 
+    </Col>
+    </Row>
+
+     <Row>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image285}>
+      </img> 
+      </Media> 
+      </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image286}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image287}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image288}>
+      </img> 
+      </Media> 
+      </Col>
+      </Row>
+
+    <Row>
+    <Col>  
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image289}>
+      </img> 
+      </Media> 
+    </Col>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image290}>
+      </img> 
+      </Media> 
+    </Col>
+    </Row>
+
+    <Row>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image291}>
+      </img> 
+      </Media> 
+      </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image292}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
+
+    <Row>  
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%" 
+     src={image293}>
+      </img> 
+      </Media> 
+    </Col>
+      <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image294}>
+      </img> 
+      </Media> 
+      </Col>
+    </Row>
 
 </Container> 
 
