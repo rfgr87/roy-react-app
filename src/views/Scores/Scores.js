@@ -430,7 +430,7 @@ import image360 from "./Destroying+Imperialist+Ideals.jpg";
 import image361 from "./ABC.png";
 import image362 from "./Escardillos Para Vientos Maderas y Saxos.png";
 import image363 from "./Reconquista.jpg";
-import image364 from "./String+quartet+#3+-+1.jpg";
+import image364 from "./String+quartet+3+-+1.jpg";
 import image365 from "./Seis+Cubista.jpg";
 import image366 from "./Trio+de+Metales.jpg";
 import image367 from "./Cosas+Sencillas+para+uno+o+mas+instrumentos+1.jpg";
