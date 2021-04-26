@@ -41,6 +41,9 @@ export default function ProfilePage1(props) {
         <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
         <NavDropdown.Item href="scores">Scores</NavDropdown.Item>
+        <NavDropdown.Item href="texts">Texts</NavDropdown.Item>
+
+
 
       </NavDropdown>
     </Nav>

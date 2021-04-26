@@ -480,6 +480,8 @@ export default function Scores(props) {
         <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
         <NavDropdown.Item href="scores">Scores</NavDropdown.Item>
+        <NavDropdown.Item href="texts">Texts</NavDropdown.Item>
+
 
 
       </NavDropdown>
@@ -534,8 +536,8 @@ export default function Scores(props) {
               </Col>
           </Row>
 
-          <Row> 
-    <Col><div style={{
+<Row> 
+<Col><div style={{
             border: '1px solid red',
 
     margin: "0px",

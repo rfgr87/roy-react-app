@@ -36,7 +36,7 @@ function MainFeaturedPost(props) {
         width: "100%",
         margin: 0,
         padding: 0}}>
-           <Router>
+          <Router>
   <Navbar bg="light" expand="lg">
   <Navbar.Brand >Roy F Guzmán</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -50,14 +50,16 @@ function MainFeaturedPost(props) {
         <NavDropdown.Item href="instrumental">Instrumental</NavDropdown.Item>
         <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
-        <NavDropdown.Item href="scores">Scores</NavDropdown.Item>   
+        <NavDropdown.Item href="scores">Scores</NavDropdown.Item>
+        <NavDropdown.Item href="texts">Texts</NavDropdown.Item>
+
+
+
       </NavDropdown>
     </Nav>
    
   </Navbar.Collapse>
 </Navbar>
-
-
 </Router>
        
 
