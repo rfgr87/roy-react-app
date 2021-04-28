@@ -450,7 +450,7 @@ import image376 from "./Relaciones Lógicas Discretas 2.jpg";
 
 import image377 from "./Seises Y Aguinaldos.jpg";
 
-
+import image378 from "./Rumba pa solista o conjunto de cámara.jpg";
 
 
 export default function Scores(props) {
@@ -4494,13 +4494,25 @@ export default function Scores(props) {
     </Carousel>
       </Col>
     </Row>
-<Row>
+   <Row>
     <Col>
     <Media>
     <img
      width="100%"
      height="100%"  
      src={image377}>
+      </img> 
+      </Media> 
+      </Col>
+      </Row>
+
+      <Row>
+    <Col>
+    <Media>
+    <img
+     width="100%"
+     height="100%"  
+     src={image378}>
       </img> 
       </Media> 
       </Col>
