@@ -105,7 +105,30 @@ function Components(props) {
        {"[composer]"}<br></br>
         {"[poet]"}<br></br>
         {"[conceptual artist]"}<br></br>
-        {"[plastic sound sculptor]"}<br></br>
+        {"[plastic sound sculptor]"}
+
+       <br></br></p>
+       <p style={{
+          display: "inline-block",
+          position: "relative",
+      color:"white", 
+      fontSize: "150%",
+      fontFamily: "Menlo",
+      fontWeight: "normal",
+      fontStyle: "normal",
+      position: "relative",
+      // backgroundColor: "none",
+      // backgroundImage: `url(${image1})`, //"#000000",
+      opacity: "1.0",   
+      marginLeft: "35%",
+      marginTop: "0%",
+      width: "25%",
+      padding: "0px",
+      border: '1px solid red'
+       }}> 
+      
+        {"royfguzman@gmail.com"}<br></br>
+
        <br></br></p>
       
 
