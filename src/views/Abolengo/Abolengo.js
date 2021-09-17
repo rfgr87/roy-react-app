@@ -17,7 +17,7 @@ import {
   useParams,
 } from "react-router-dom";
 
-import image1 from "./glitch4.png";
+import image1 from "./casaglitcha.jpg"
 
 
 function Releases(props) {
@@ -26,7 +26,6 @@ function Releases(props) {
       <div style={{ 
         position: "absolute",
         backgroundImage: `url(${image1})`,
-        backgroundColor: "white",
         //backgroundColor: "white",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
