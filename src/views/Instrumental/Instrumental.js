@@ -101,6 +101,106 @@ function Releases(props) {
 
               }}>
               <p>
+              {"String Quartet Works"}
+              </p>
+              </div>
+
+              <Container justify="center">
+       <Row>
+         
+        <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=3480594853/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abstracciones-de-puerto-rico-para-cuarteto-de-cuerdas">Abstracciones de Puerto Rico para Cuarteto de Cuerdas by Roy F Guzmán</a></iframe>
+          </Col>
+      
+         <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=3236687846/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/petroglifos-ta-nos-i-para-cuarteto-de-cuerdas">Petroglifos Taínos I para Cuarteto de Cuerdas by Roy F Guzmán</a></iframe>
+          </Col>
+
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=4291500311/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/axiom-tica-j-bara-para-cuarteto-de-cuerdas">Axiomática Jíbara para Cuarteto de Cuerdas by Roy F Guzmán</a></iframe>
+          </Col>
+
+
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=3032978854/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/villa-palmera-por-el-cuarteto-spitze">Villa Palmera por el Cuarteto Spitze by Roy F Guzmán</a></iframe>
+          </Col>
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=2582132431/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/santurce-por-el-cuarteo-spitze">Santurce por el Cuarteo Spitze by Roy F Guzmán</a></iframe>
+          </Col>
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "10px",
+          marginLeft:  "10%"}} 
+          src="https://bandcamp.com/EmbeddedPlayer/album=4282021111/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/la-perla-por-el-cuarteto-spitze">La Perla por el Cuarteto Spitze by Roy F Guzmán</a></iframe>
+          </Col>
+
+        </Row>
+    </Container>
+
+
+
+       <div style={{ 
+              display: "inline-block",
+              position: "relative",        
+              backgroundColor: "white",
+              fontFamily: "Menlo",
+              fontWeight: "600",
+              fontStyle: "normal", 
+              color: "black",
+              borderWidth:1,
+              marginRigth: "0%",
+              marginBottom: "0%",
+              heigth: "100%",
+              width: "50%",
+              border: '1px solid red',
+              padding: "0.5%",
+              paddingBottom: "0%"
+
+              }}>
+              <p>
               {"Escardillos for solo instruments"}
               </p>
               </div>
