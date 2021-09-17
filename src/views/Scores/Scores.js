@@ -481,7 +481,6 @@ export default function Scores(props) {
         <NavDropdown.Item href="abolengo">Abolengo</NavDropdown.Item>
         <NavDropdown.Item href="electro-acoustic">Electro-Acoustic</NavDropdown.Item>
         <NavDropdown.Item href="instrumental">Instrumental</NavDropdown.Item>
-        <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
         <NavDropdown.Item href="scores">Scores</NavDropdown.Item>
         <NavDropdown.Item href="texts">Texts</NavDropdown.Item>

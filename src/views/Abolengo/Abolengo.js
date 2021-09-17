@@ -48,7 +48,6 @@ function Releases(props) {
         <NavDropdown.Item href="abolengo">Abolengo</NavDropdown.Item>
         <NavDropdown.Item href="electro-acoustic">Electro-Acoustic</NavDropdown.Item>
         <NavDropdown.Item href="instrumental">Instrumental</NavDropdown.Item>
-        <NavDropdown.Item href="collaborations">Collaborations</NavDropdown.Item>
         <NavDropdown.Item href="cmepr">CMEPR</NavDropdown.Item>
         <NavDropdown.Item href="scores">Scores</NavDropdown.Item>
         <NavDropdown.Item href="texts">Texts</NavDropdown.Item>
@@ -147,11 +146,72 @@ function Releases(props) {
           marginTop: "0%",
           marginLeft:  "0%"}} 
           src="https://bandcamp.com/EmbeddedPlayer/album=641119861/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-03-04-21">Abolengo[03-04-21] by Roy F Guzmán</a></iframe>
+          
+          </Col>
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "0%",
+          marginLeft:  "0%"}} src="https://bandcamp.com/EmbeddedPlayer/album=1777539394/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-09-04-21">Abolengo[09-04-21] by Daniel Ramirez, Luigie Vazquez, Roy F Guzmán</a></iframe>
           </Col>
 
-        
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "0%",
+          marginLeft:  "0%"}}
+          src="https://bandcamp.com/EmbeddedPlayer/album=1290785321/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-05-05-21-2">Abolengo[05-05-21][2] by Roy F Guzmán, Daniel Ramirez, Luigie Vazquez</a></iframe>
+          </Col>
 
-          
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "0%",
+          marginLeft:  "0%"}}
+          src="https://bandcamp.com/EmbeddedPlayer/album=617018/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-04-05-21-1">Abolengo[04-05-21][1] by Roy F Guzmán, Daniel Ramirez, Luigie Vazquez</a></iframe>
+          </Col>
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "0%",
+          marginLeft:  "0%"}}
+          src="https://bandcamp.com/EmbeddedPlayer/album=1461720111/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-en-la-finca-neo-jibairo-21-05-21">Abolengo En La Finca Neo Jibairo[21-05-21] by Abolengo</a></iframe>
+          </Col>
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "0%",
+          marginLeft:  "0%"}}
+          src="https://bandcamp.com/EmbeddedPlayer/album=149410129/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-en-vivo-en-la-goyco-27-06-21">Abolengo en Vivo En La Goyco [27-06-21] by Abolengo - Daniel Ramirez, Luigie Vazquez, Roy F Guzmán</a></iframe>
+          </Col>
+
+          <Col><iframe style = {{
+          display: "inline-block",
+          position: "relative",
+          border: 0, 
+          width: "300px", 
+          height: "420px", 
+          marginTop: "0%",
+          marginLeft:  "0%"}}
+          src="https://bandcamp.com/EmbeddedPlayer/album=4293072061/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://royguzman.bandcamp.com/album/abolengo-22-07-21">Abolengo[22-07-21] by Roy F Guzmán</a></iframe>
+          </Col>
 
         </Row>
     </Container>
